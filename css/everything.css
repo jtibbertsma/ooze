@@ -1,0 +1,18 @@
+body {
+  font-family: "Helvetica", serif;
+  background: #000066;
+}
+
+h1 {
+  color: #FFF;
+  text-shadow: 4px 4px 4px #aaa;
+  position: absolute;
+  top: 0%;
+  left: 37%;
+  transition: transform 1s, top 2s;
+}
+
+h1:hover {
+  transform: rotate(180deg);
+  top: 90%;
+}
