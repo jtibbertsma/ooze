@@ -1,18 +1,31 @@
-body {
-  font-family: "Helvetica", serif;
-  background: #000066;
+.explosion-tile {
+  background: #DDD;
+  height: 10px;
+  width: 10px;
+  float: left;
+  transition: background 500ms;
 }
 
-h1 {
-  color: #FFF;
-  text-shadow: 4px 4px 4px #aaa;
-  position: absolute;
-  top: 0%;
-  left: 37%;
-  transition: transform 1s, top 2s;
+.explosion-red {
+  background: red;
 }
 
-h1:hover {
-  transform: rotate(180deg);
-  top: 90%;
+.explosion-green {
+  background: green;
+}
+
+.explosion-blue {
+  background: blue;
+}
+
+.explosion-yellow {
+  background: yellow;
+}
+
+.explosion-purple {
+  background: purple;
+}
+
+.explosion-orange {
+  background: orange;
 }

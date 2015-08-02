@@ -1,0 +1,1185 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"e",
+				"explosion-purple"
+			],
+			[
+				"ex",
+				"explosion-yellow"
+			],
+			[
+				"colo",
+				"colorExplosion"
+			],
+			[
+				"leftover",
+				"leftoverWidth"
+			],
+			[
+				"merge",
+				"mergeSort"
+			],
+			[
+				"prot",
+				"proto	Prototype"
+			],
+			[
+				"proto",
+				"proto	Prototype"
+			],
+			[
+				"lon",
+				"longestSymmetricSubstring"
+			],
+			[
+				"q",
+				"quickSort"
+			],
+			[
+				"prime",
+				"primeArray"
+			],
+			[
+				"f",
+				"f	Anonymous Function"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"watch",
+				"watch_list_items"
+			],
+			[
+				"Has",
+				"HasManyOptions"
+			],
+			[
+				"attr",
+				"attr_accessor"
+			],
+			[
+				"gray",
+				"gray-medium-light"
+			],
+			[
+				"largest",
+				"largest_prime_factor"
+			],
+			[
+				"data_State",
+				"data_State_setattro"
+			],
+			[
+				"Sudoku",
+				"SudokuState_Type"
+			],
+			[
+				"PyTuple_",
+				"PyTuple_GET_ITEM"
+			],
+			[
+				"house_",
+				"house_adjust_cand_count_up"
+			],
+			[
+				"Candidate",
+				"CandidateSet_Check"
+			],
+			[
+				"PyErr",
+				"PyErr_BadInternalCall"
+			],
+			[
+				"clues",
+				"clues_methods"
+			],
+			[
+				"CELL",
+				"CELL_CANDS"
+			],
+			[
+				"CELL_",
+				"CELL_FILLED"
+			],
+			[
+				"Py_RE",
+				"Py_RETURN_NONE"
+			],
+			[
+				"sudok",
+				"SudokuStateObject"
+			],
+			[
+				"state_",
+				"state_candidates_Type"
+			],
+			[
+				"new_",
+				"new_sudoku_map"
+			],
+			[
+				"pYE",
+				"PyErr_Occurred"
+			],
+			[
+				"get",
+				"get_candidate_set"
+			],
+			[
+				"house",
+				"house_adjust_cand_count_down"
+			],
+			[
+				"candidates_",
+				"candidates_from_house"
+			],
+			[
+				"Nake",
+				"NakedPairs"
+			],
+			[
+				"Hidden",
+				"HiddenPairs"
+			],
+			[
+				"hidden_",
+				"hidden_possibles_cache"
+			],
+			[
+				"cs",
+				"cs_iterpos"
+			],
+			[
+				"PyL",
+				"PyLong_FromSsize_t"
+			],
+			[
+				"PyExc",
+				"PyExc_ValueError"
+			],
+			[
+				"PyLong_From",
+				"PyLong_FromSsize_t"
+			],
+			[
+				"candidate",
+				"candidate_in_keyset"
+			],
+			[
+				"Py_R",
+				"Py_RETURN_NONE"
+			],
+			[
+				"fill",
+				"fill_in_pencilmarks"
+			],
+			[
+				"N",
+				"NakedSetMove"
+			],
+			[
+				"Nak",
+				"NakedPairMove"
+			],
+			[
+				"hi",
+				"hi_cand_count"
+			],
+			[
+				"Hiden",
+				"HiddenSingleMove"
+			],
+			[
+				"find",
+				"find_unique_candidate"
+			],
+			[
+				"UN",
+				"UNPACK_KEY_NO_DECL"
+			],
+			[
+				"PyTuple",
+				"PyTuple_GET_ITEM"
+			],
+			[
+				"Candid",
+				"CandidateSet"
+			],
+			[
+				"gr",
+				"grconfig"
+			],
+			[
+				"aahc",
+				"adjust_hi_cand_count_up"
+			],
+			[
+				"ad",
+				"adjust_hi_solved_up"
+			],
+			[
+				"CE",
+				"CELL_GROUP"
+			],
+			[
+				"ss_",
+				"ss_houses"
+			],
+			[
+				"ci",
+				"ci_group"
+			],
+			[
+				"GR",
+				"GROFFSET"
+			],
+			[
+				"set_",
+				"set_groups_in_cells"
+			],
+			[
+				"ss",
+				"ss_houses"
+			],
+			[
+				"is",
+				"isinstance"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 557,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/J/Source/personal_website/css/everything.css",
+			"settings":
+			{
+				"buffer_size": 372,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/J/Source/personal_website/javascript/insert_tiles.js",
+			"settings":
+			{
+				"buffer_size": 2080,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/J/Source/personal_website/javascript/color_explosion.js",
+			"settings":
+			{
+				"buffer_size": 3012,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 374.0,
+		"last_filter": "pack",
+		"selected_items":
+		[
+			[
+				"pack",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"open",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"colsel",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"packrm",
+				"Package Control: Remove Package"
+			],
+			[
+				"INST",
+				"Package Control: Install Package"
+			],
+			[
+				"open ",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"open resou",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"open re",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"open res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"resourceopen",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"packresopen",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"Pakcresopen",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"packresoop",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"packreseopen",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pack resour",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"package resou",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"colssel",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"colsl",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"pro",
+				"ColorSchemeSelector: Previous Color Scheme"
+			],
+			[
+				"the",
+				"QuickThemes: next"
+			],
+			[
+				"colse",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"qu",
+				"QuickThemes: previous"
+			],
+			[
+				"COLSEL",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"col",
+				"ColorSchemeSelector: Random Color Scheme"
+			],
+			[
+				"packrese",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"packrecou",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pacreceour",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"packrec",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"coled",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"parec",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"colset",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"view ach",
+				"Achievement: View Achievements"
+			],
+			[
+				"syncimp",
+				"Set Syntax: C Improved"
+			],
+			[
+				"olsel",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"solsel",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"colorsel",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"pacli",
+				"Package Control: List Packages"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"ach",
+				"Achievement: View Achievements"
+			],
+			[
+				"align",
+				"Preferences: Alignment File Settings – Default"
+			],
+			[
+				"cimp",
+				"Set Syntax: C Improved"
+			],
+			[
+				"sync+",
+				"Set Syntax: C++"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			]
+		],
+		"width": 561.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/J/Source/personal_website"
+	],
+	"file_history":
+	[
+		"/Users/J/Source/personal_website/readme.md",
+		"/Users/J/Source/personal_website/css/reset.css",
+		"/Users/J/Source/personal_website/.gitignore",
+		"/Users/J/Source/joseph_tibbertsma_a05/spec/js_assessment_spec.js",
+		"/Users/J/Source/joseph_tibbertsma_a05/src/js_assessment.js",
+		"/Users/J/Source/assessment-prep/a05-practice/spec/js_assessment_spec.js",
+		"/Users/J/Source/assessment-prep/a05-practice/src/js_assessment.js",
+		"/Users/J/Source/assessment-prep/a05-practice/README.md",
+		"/Users/J/Source/assessment-prep/a03-practice-assoc/db/schema.rb",
+		"/Users/J/Source/assessment-prep/a03-practice-assoc/app/models/watch_list.rb",
+		"/Users/J/Source/assessment-prep/a03-practice-assoc/app/models/exchange.rb",
+		"/Users/J/Source/assessment-prep/a03-practice-assoc/app/models/executive.rb",
+		"/Users/J/Source/assessment-prep/a03-practice-assoc/app/models/user.rb",
+		"/Users/J/Source/assessment-prep/a03-practice-assoc/app/models/watch_list_item.rb",
+		"/Users/J/Source/assessment-prep/a03-practice-assoc/app/models/company.rb",
+		"/Users/J/Source/assessment-prep/a03-practice-assoc/app/models/board.rb",
+		"/Users/J/Source/assessment-prep/a03-practice-assoc/app/models/board_membership.rb",
+		"/Users/J/Source/assessment-prep/a03-practice-assoc/app/models/price.rb",
+		"/Users/J/Source/assessment-prep/a03-practice-sql/lib/movie_sql.rb",
+		"/Users/J/Source/assessment-prep/a03-practice-sql-soln/lib/movie_sql.rb",
+		"/Users/J/Library/Application Support/Sublime Text 3/Packages/Theme - Coffee/Coffee Dark Roast.sublime-theme",
+		"/Users/J/Library/Application Support/Sublime Text 3/Packages/Theme - Coffee/Coffee Dark Roast.tmTheme",
+		"/Users/J/Source/sqlzoo/skeleton/lib/04_select_within_select.rb",
+		"/Users/J/Source/sqlzoo/skeleton/lib/03a_nobel_bonus.rb",
+		"/Users/J/Source/sqlzoo/skeleton/spec/04_select_within_select_spec.rb",
+		"/Users/J/Source/sqlzoo/solutions",
+		"/Users/J/Source/sqlzoo/skeleton/lib/03_select_nobel.rb",
+		"/Users/J/Source/sqlzoo/skeleton/lib/02_select_countries.rb",
+		"/Users/J/Source/sqlzoo/skeleton/lib/01_select_basics.rb",
+		"/Users/J/Source/sqlzoo/skeleton/.rspec",
+		"/Users/J/Source/active_record_lite/lib/db_connection.rb",
+		"/Users/J/Source/active_record_lite/cats.sql",
+		"/Users/J/Source/active_record_lite/spec/04_associatable2_spec.rb",
+		"/Users/J/Source/active_record_lite/lib/04_associatable2.rb",
+		"/Users/J/Source/active_record_lite/spec/03_associatable_spec.rb",
+		"/Users/J/Source/active_record_lite/lib/03_associatable.rb",
+		"/Users/J/Source/active_record_lite/spec/02_searchable_spec.rb",
+		"/Users/J/Source/active_record_lite/lib/02_searchable.rb",
+		"/Users/J/Source/active_record_lite/spec/01_sql_object_spec.rb",
+		"/Users/J/Source/active_record_lite/lib/01_sql_object.rb",
+		"/Users/J/Source/active_record_lite/Gemfile",
+		"/Users/J/Source/active_record_lite/.rspec",
+		"/Users/J/Source/active_record_lite/lib/00_attr_accessor_object.rb",
+		"/Users/J/Source/assessment-prep/a03-practice-assoc/spec/models/board_spec.rb",
+		"/Users/J/Source/demo-shit/test.rb",
+		"/Users/J/Source/assessment-prep/a03-practice-assoc/spec/models/board_membership_spec.rb",
+		"/Users/J/Source/assessment-prep/a03-practice-assoc/README.md",
+		"/Users/J/.rspec",
+		"/Users/J/Downloads/assessment-prep",
+		"/Users/J/Source/rails-master/activerecord/lib/active_record/relation/delegation.rb",
+		"/Users/J/Source/rails-master/activerecord/lib/active_record/associations.rb",
+		"/Users/J/Source/rails-master/activerecord/lib/active_record/base.rb",
+		"/Users/J/Source/rails-master/activerecord/lib/active_record/migration.rb",
+		"/Users/J/Source/rails-master/Gemfile",
+		"/Users/J/Source/rails-tut/sample_app/Procfile",
+		"/Users/J/Source/rails-tut/sample_app/app/helpers/users_helper.rb",
+		"/Users/J/Source/rails-tut/sample_app/app/controllers/users_controller.rb",
+		"/Users/J/Source/rails-tut/sample_app/app/models/user.rb",
+		"/Users/J/Source/rails-tut/sample_app/test/models/user_test.rb",
+		"/Users/J/Source/rails-tut/sample_app/test/integration/site_layout_test.rb",
+		"/Users/J/Source/rails-tut/sample_app/test/integration/users_signup_test.rb",
+		"/Users/J/Source/rails-tut/sample_app/config/puma.rb",
+		"/Users/J/Source/rails-tut/sample_app/Gemfile",
+		"/Users/J/Source/rails-tut/sample_app/config/environments/production.rb",
+		"/Users/J/Source/rails-tut/sample_app/test/controllers/users_controller_test.rb",
+		"/Users/J/Source/rails-tut/sample_app/test/controllers/static_pages_controller_test.rb",
+		"/Users/J/Source/rails-tut/sample_app/app/views/shared/_error_messages.html.erb",
+		"/Users/J/Source/rails-tut/sample_app/app/helpers/application_helper.rb",
+		"/Users/J/Source/rails-tut/sample_app/db/migrate/20150427025414_add_password_digest_to_users.rb",
+		"/Users/J/Library/Application Support/Sublime Text 3/Packages/User/SCSS.sublime-settings",
+		"/Users/J/Source/rails-tut/sample_app/test/fixtures/users.yml",
+		"/Users/J/Source/rails-tut/sample_app/db/migrate/20150427021059_add_index_to_users_email.rb",
+		"/Users/J/Source/rails-tut/sample_app/app/controllers/static_pages_controller.rb",
+		"/usr/local/bin/heroku",
+		"/Users/J/Source/rails-tut/sample_app/app/views/layouts/_header.html.erb",
+		"/Users/J/Source/rails-tut/sample_app/config/routes.rb",
+		"/Users/J/Source/rails-tut/sample_app/app/views/layouts/_footer.html.erb",
+		"/Users/J/Source/rails-tut/sample_app/app/views/layouts/_shim.html.erb",
+		"/Users/J/Source/rails-tut/sample_app/example_user.rb",
+		"/Users/J/Library/Application Support/Sublime Text 3/Packages/User/HTML.sublime-settings",
+		"/Users/J/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/J/Source/rails-tut/sample_app/.irbrc",
+		"/Users/J/Source/rails-tut/sample_app/test/test_helper.rb",
+		"/Users/J/Source/rails-tut/sample_app/config/initializers/backtrace_silencers.rb",
+		"/Users/J/Source/rails-tut/sample_app/.gitignore",
+		"/Users/J/Source/rails-tut/sample_app/Guardfile",
+		"/Users/J/Source/rails-tut/sample_app/app/views/about.html.erb",
+		"/Users/J/Source/rails-tut/sample_app/README.md",
+		"/Users/J/Source/rails-tut/toy_app/app/controllers/application_controller.rb",
+		"/Users/J/Source/rails-tut/toy_app/app/controllers/users_controller.rb",
+		"/Users/J/Source/rails-tut/toy_app/app/models/micropost.rb",
+		"/Users/J/Source/rails-tut/toy_app/app/models/user.rb",
+		"/Users/J/Source/rails-tut/toy_app/config/routes.rb",
+		"/Users/J/Source/rails-tut/toy_app/Gemfile",
+		"/Users/J/Source/rails-tut/hello_app/config/routes.rb",
+		"/Users/J/Source/rails-tut/hello_app/app/controllers/application_controller.rb",
+		"/Users/J/Source/rails-tut/hello_app/config/database.yml",
+		"/Users/J/Source/rails-tut/hello_app/Gemfile",
+		"/Users/J/Source/rails-tut/hello_app/README.md",
+		"/Users/J/Source/ruby-euler/08-product-in-a-series.rb",
+		"/Users/J/Source/ruby-euler/05-smallest_multiple.rb",
+		"/Users/J/Source/ruby-euler/04-largest-palindrome.rb",
+		"/Users/J/Source/ruby-euler/03-largest-prime-factor.rb",
+		"/Users/J/Source/ruby-euler/01-multiples-of-3-and-5.rb",
+		"/Users/J/Source/ruby-euler/02-fibo-sum.rb",
+		"/Users/J/Source/koans/about_blocks.rb",
+		"/Users/J/Source/koans/path_to_enlightenment.rb",
+		"/Users/J/Source/koans/about_iteration.rb",
+		"/Users/J/Source/koans/triangle.rb",
+		"/Users/J/Source/koans/about_exceptions.rb",
+		"/Users/J/Source/koans/about_triangle_project.rb",
+		"/Users/J/Source/koans/about_true_and_false.rb",
+		"/Users/J/Source/koans/about_control_statements.rb",
+		"/Users/J/Source/koans/about_constants.rb",
+		"/Users/J/Source/koans/about_keyword_arguments.rb",
+		"/Users/J/Source/koans/about_methods.rb",
+		"/Users/J/Source/koans/about_regular_expressions.rb",
+		"/Users/J/Source/koans/about_symbols.rb",
+		"/Users/J/Source/koans/about_strings.rb",
+		"/Users/J/Source/koans/about_hashes.rb",
+		"/Users/J/Source/koans/about_array_assignment.rb",
+		"/Users/J/Source/koans/about_arrays.rb",
+		"/Users/J/Source/koans/about_objects.rb",
+		"/Users/J/Source/koans/about_nil.rb",
+		"/Users/J/Source/koans/about_asserts.rb",
+		"/Users/J/Source/sudoku/prof.py",
+		"/Users/J/Source/sudoku/morepuzzles.txt",
+		"/Users/J/Source/sudoku/engine/state.py"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/J/Source/personal_website/javascript/insert_tiles.js",
+			"/Users/J/Source",
+			"/Users/J/Source/rails-master",
+			"/Users/J/Source/sudoku/engine/datamodule.c",
+			"/Users/J/Source/sudoku"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"\\.data\\(\\\"(\\w+)\", (\\[[^\\]]*\\])",
+			"\\.data\\(\\\"(\\w+)\", (\\[[^\\]]*\\])\\)",
+			"\\.data\\(\\\"(\\w+)\", (\\[[^\\]]\\])\\)",
+			"0",
+			"kinshi",
+			"refactor",
+			"750",
+			"red",
+			"yellow",
+			"green",
+			"blue",
+			"purple",
+			"red",
+			"1000",
+			"squareSize",
+			"sqaureSize",
+			"10",
+			"leftoverRowHeight",
+			"leftoverTileWidth",
+			"j",
+			"section",
+			"Hind",
+			"serif",
+			"webkit",
+			"transform",
+			"Things",
+			"merge",
+			"argument",
+			"merge",
+			"argument",
+			"pairMatch",
+			"longestSymmetricSubstring",
+			"comparator",
+			"initial",
+			"yr",
+			"name",
+			"castings",
+			"(class|module)\\s*ActionController::Base",
+			"(class|module)\\s*ActionController",
+			"rake",
+			"13195",
+			"__",
+			" ",
+			"__",
+			"nil",
+			"__",
+			"peanut",
+			"__",
+			"false",
+			"state",
+			"PyObject_ClearWeakRefs",
+			"state",
+			"UNPACK_KEY",
+			"find_clues_in_keyset",
+			"UNPACK_KEY",
+			"dyn",
+			"dict",
+			"continue",
+			"attr",
+			"ss_weakrefs",
+			"__dict__",
+			"done",
+			"\\?.*:",
+			"state",
+			"self",
+			"data_CandidateSet_doc",
+			"get_candidate_set",
+			"clinic input",
+			"BASESTATE",
+			"BaseState",
+			"PyObject_GenericGetAttr",
+			"state",
+			"KeyChecker",
+			"candidates",
+			"houses",
+			"get_candidates",
+			"set_candidates",
+			"delete_key",
+			"solve_key",
+			"integrity_check",
+			"key_value",
+			"NUMROWS",
+			"self",
+			"ss_values",
+			"ss_clues",
+			"clues",
+			"ss_values",
+			"ss_clues",
+			"return NULL",
+			"self",
+			"lues",
+			"candidates",
+			"self",
+			"dict",
+			"self",
+			"return -1",
+			"NULL",
+			"return NULL",
+			"oneset",
+			"grid",
+			"BaseState",
+			"y",
+			"x",
+			"w",
+			"v",
+			"Checker",
+			"housekeys",
+			"grconfig",
+			"housekeys",
+			"oneset",
+			"oneset\\((\\w+)\\)",
+			"grconfig",
+			"peers",
+			"rows",
+			"row",
+			"default_subgroups",
+			"peers",
+			"default_grconfig",
+			"self.",
+			"num_deallocs",
+			"num_allocs",
+			"num",
+			"num_deallocs",
+			"num_allocs",
+			"tmp",
+			"dealloc_count",
+			"grconfig",
+			"key_value"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			".data({\\1: \\2, explosion: this})",
+			"build_set",
+			"oneset[\\1]"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 557,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								503,
+								503
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/J/Source/personal_website/css/everything.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 372,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/J/Source/personal_website/javascript/insert_tiles.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2080,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								795,
+								795
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/J/Source/personal_website/javascript/color_explosion.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3012,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								185,
+								185
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 680.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "personal_website.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"data",
+				"engine/datamodule.c"
+			],
+			[
+				"solv",
+				"engine/solver.py"
+			],
+			[
+				"util",
+				"engine/util.py"
+			],
+			[
+				"statepy",
+				"engine/state.py"
+			],
+			[
+				"st",
+				"state_guts.txt"
+			],
+			[
+				"uti",
+				"engine/util.py"
+			],
+			[
+				"da",
+				"engine/datamodule.c"
+			],
+			[
+				"mov",
+				"engine/moves.py"
+			],
+			[
+				"mo",
+				"morepuzzles.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "sudo",
+		"selected_items":
+		[
+			[
+				"sudo",
+				"~/Documents/sublimeprojects/sudoku.sublime-project"
+			],
+			[
+				"jq",
+				"~/Documents/sublimeprojects/jquery-examples.sublime-project"
+			],
+			[
+				"sud",
+				"~/Documents/sublimeprojects/sudoku.sublime-project"
+			],
+			[
+				"rails m",
+				"~/Documents/sublimeprojects/rails-master.sublime-project"
+			],
+			[
+				"musi",
+				"~/Documents/sublimeprojects/music-solution.sublime-project"
+			],
+			[
+				"",
+				"~/Documents/sublimeprojects/checkers.sublime-project"
+			],
+			[
+				"jump",
+				"~/Documents/sublimeprojects/jumpstart-blogger.sublime-project"
+			],
+			[
+				"test-fi",
+				"~/Documents/sublimeprojects/test-first-ruby.sublime-project"
+			],
+			[
+				"tut",
+				"~/Documents/sublimeprojects/rails-tut.sublime-project"
+			],
+			[
+				"railstut",
+				"~/Documents/sublimeprojects/rails-tut.sublime-project"
+			],
+			[
+				"testf",
+				"~/Documents/sublimeprojects/test-first-ruby.sublime-project"
+			],
+			[
+				"testfit",
+				"~/Documents/sublimeprojects/test-first-ruby.sublime-project"
+			],
+			[
+				"ruby",
+				"~/Documents/sublimeprojects/ruby.sublime-project"
+			],
+			[
+				"koan",
+				"~/Documents/sublimeprojects/koans.sublime-project"
+			],
+			[
+				"test",
+				"~/Documents/sublimeprojects/test2.sublime-project"
+			],
+			[
+				"cp",
+				"~/Documents/sublimeprojects/cpython.sublime-project"
+			],
+			[
+				"p",
+				"~/Documents/sublimeprojects/sudoku.sublime-project"
+			],
+			[
+				"dj",
+				"~/Documents/sublimeprojects/django-source.sublime-project"
+			],
+			[
+				"hmt",
+				"~/Documents/sublimeprojects/htmltut.sublime-project"
+			],
+			[
+				"htm",
+				"~/Documents/sublimeprojects/htmltut.sublime-project"
+			],
+			[
+				"ht",
+				"~/Documents/sublimeprojects/htmltut.sublime-project"
+			],
+			[
+				"html",
+				"~/Documents/sublimeprojects/htmltut.sublime-project"
+			],
+			[
+				"inst",
+				"~/Documents/sublimeprojects/erlanng-tut.sublime-project"
+			],
+			[
+				"cpy",
+				"~/Documents/sublimeprojects/cpython.sublime-project"
+			],
+			[
+				"cpyt",
+				"~/Documents/sublimeprojects/cpython.sublime-project"
+			],
+			[
+				"cpth",
+				"~/Documents/sublimeprojects/cpython.sublime-project"
+			],
+			[
+				"cpyth",
+				"~/Documents/sublimeprojects/cpython.sublime-project"
+			],
+			[
+				"cpt",
+				"~/Documents/sublimeprojects/cpython.sublime-project"
+			],
+			[
+				"coyt",
+				"~/Documents/sublimeprojects/cpython.sublime-project"
+			],
+			[
+				"erl",
+				"~/Documents/sublimeprojects/erlanng-tut.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 374.0,
+		"last_filter": "delegate",
+		"selected_items":
+		[
+			[
+				"delegate",
+				"delegate"
+			],
+			[
+				"has_many",
+				"has_many"
+			],
+			[
+				"Migra",
+				"Migration"
+			]
+		],
+		"width": 864.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
