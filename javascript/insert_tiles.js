@@ -11,7 +11,7 @@ $(function () {
         leftoverWidth = $(document).width() - (tilesPerRow * 10),
 
         numRows = Math.floor($(document).height() / 10),
-        leftoverHeight = $(document).height() - (tilesPerRow * 10),
+        leftoverHeight = $(document).height() - (numRows * 10),
         $row, i, j;
 
 
@@ -44,6 +44,9 @@ $(function () {
       $mainDiv.append($row);
     }
 
+    console.log(leftoverHeight);
+    console.log(leftoverWidth);
+
     if (leftoverHeight > 0) {
       $row = $("<div>").addClass("explosion-row");
       for (i = 0; i < tilesPerRow; ++i) {
@@ -53,8 +56,11 @@ $(function () {
             .css("height", '' + leftoverHeight + 'px')
             .data("pos", [numRows, i])
         )
-        window.EXPLOSION_ROWS += 1;
       }
+
+      console.log("Leftover Height")
+      window.EXPLOSION_ROWS += 1;
+
       if (leftoverWidth > 0) {
         $row.append(
           $("<div>")
@@ -64,8 +70,11 @@ $(function () {
             .data("pos", [numRows, tilesPerRow])
         )
         // XXX: Won't be set properly if vertical pixels % 10 is 0
+        console.log("Leftover Width")
         window.EXPLOSION_COLS += 1;
       }
+
+      console.log($row.find(".explosion-tile"))
       $mainDiv.append($row);
     }
 
