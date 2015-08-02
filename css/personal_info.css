@@ -1,0 +1,30 @@
+body {
+  font-family: "Helvetica"; 
+}
+
+.main {
+  position: relative;
+  top: 45px;
+  /*min-height: 100px;*/
+  height: 600px;
+  max-width: 700px;
+  background: linear-gradient(to right, rgba(73,59,202,1) 0%, rgba(20,14,87,1) 18%, rgba(73,59,202,1) 100%);
+  margin: 0 auto;
+  opacity: 0.95;
+  box-shadow: -29px 31px 136px -2px rgba(0,0,0,0.75);
+  border-radius: 35px;
+  border: 1px solid black;
+}
+
+.main h1 {
+  text-align: right;
+  color: white;
+  font-size: 30px;
+  font-weight: 200;
+  position: absolute;
+  margin-right: 30px;
+  padding-bottom: 5px;
+  top: 5%;
+  left: 58%;
+  border-bottom: 2px solid #33218B;
+}
