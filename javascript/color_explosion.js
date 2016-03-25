@@ -14,21 +14,21 @@ $(function () {
     })
   };
 
-  var NEIGHBOR_DELTAS = [
-              [-1, 0],
-
-    [ 0, -1],          [ 0, 1],
-
-              [ 1, 0]
-  ];
-
   // var NEIGHBOR_DELTAS = [
-  //   [-1, -1], [-1, 0], [-1, 1],
+  //             [-1, 0],
 
   //   [ 0, -1],          [ 0, 1],
 
-  //   [ 1, -1], [-1, 0], [ 1, 1]
+  //             [ 1, 0]
   // ];
+
+  var NEIGHBOR_DELTAS = [
+    [-1, -1], [-1, 0], [-1, 1],
+
+    [ 0, -1],          [ 0, 1],
+
+    [ 1, -1], [-1, 0], [ 1, 1]
+  ];
 
   // var NEIGHBOR_DELTAS = [
   //   [-1, -1],          [-1, 1],
@@ -120,11 +120,11 @@ $(function () {
       }, 400);
     }, 400);
 
-    setTimeout(function () {
-      this.neighbors().each(function(idx, $neighbor) {
-        $neighbor.madTransitions();
-      });
-    }.bind(this), 20);
+  setTimeout(function () {
+    this.neighbors().each(function(idx, $neighbor) {
+      $neighbor.madTransitions();
+    });
+  }.bind(this), 150);
   };
 
   $(".color-explosion").colorExplosion();
