@@ -13,7 +13,7 @@ $(function () {
         numRows = Math.floor($(document).height() / 10),
         leftoverHeight = $(document).height() - (tilesPerRow * 10),
         $row, i, j;
-
+    
 
     $mainDiv.empty();
 
